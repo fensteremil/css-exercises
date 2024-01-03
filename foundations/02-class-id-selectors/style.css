@@ -1,0 +1,18 @@
+.odd-num {
+    background-color: rgb(240, 180, 180);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.spec-size {
+    font-size: 24px;
+}
+
+#sec-num {
+    color: hsl(231, 100%, 50%);
+    font-size: 36px;
+}
+
+#fourth-num {
+    background-color: #a0cca6;
+    font-weight: bold;
+}
